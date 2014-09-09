@@ -10,8 +10,8 @@ Currently two formats are available:
  2. conventional VCF format.
 
 Prerequisite:  
-    1. gVCF format file  
-    2. genome data (FASTA format) used for mapping  
+ 1. gVCF format file  
+ 2. genome data (FASTA format) used for mapping  
     
 See gvcf_tools.py for details.
 
