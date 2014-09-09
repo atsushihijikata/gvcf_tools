@@ -9,9 +9,9 @@ Currently two formats are available:
  1. multi-FASTA format containing genetic variations.
  2. conventional VCF format.
 
-Prerequisite:
-    1. gVCF format file
-    2. genome data (FASTA format) used for mapping
+Prerequisite:  
+    1. gVCF format file  
+    2. genome data (FASTA format) used for mapping  
     
 See gvcf_tools.py for details.
 
