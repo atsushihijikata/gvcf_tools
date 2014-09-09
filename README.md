@@ -18,5 +18,5 @@ See gvcf_tools.py for details.
 Usage:  
   type `python gvcf_tools.py sample.g.vcf`
 
-For more options:
+For more options:  
   type `python gvcf_tools.py -help` 
