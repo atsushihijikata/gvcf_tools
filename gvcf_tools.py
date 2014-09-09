@@ -8,8 +8,8 @@ gvcf_tools.py
  1. multi-FASTA format with variations in the gVCF file.
  2. conventional VCF format.
 
-@author: Atsushi Hijikata 
-         atsushi.hijikata@gmail.com
+@author:  Atsushi Hijikata 
+          atsushi.hijikata@gmail.com
 @created: July 21, 2014
 
 Usage:
@@ -18,8 +18,9 @@ Usage:
     gvcf.write_fasta()
 
 Prerequisite:
-    1. gVCF format file
-    2. genome data (FASTA format) used for mapping
+    1. Python 2.6 or later,
+    2. genome data in FASTA format (please download from public databases,
+       e.g. NCBI, EBI or UCSC).
 
 """
 import os, sys
