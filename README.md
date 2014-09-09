@@ -1,11 +1,11 @@
 gvcf_tools
 ==========
 
-handling with gVCF (genome variant call format) files
+Handling with gVCF (genome variant call format) files
+to convert gVCF into the other formats.
 
-Converting gVCF format into several formats.
+Currently two formats are available:
 
-Currently two formats are supported.
  1. multi-FASTA format with variations in the gVCF file.
  2. conventional VCF format.
 
