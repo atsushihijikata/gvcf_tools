@@ -11,7 +11,7 @@ Currently two formats are available:
 
 Prerequisite:  
  1. gVCF format file  
- 2. genome data (FASTA format) used for mapping  
+ 2. genome data in FASTA format (please download from public database, e.g. NCBI, EBI or UCSC).
     
 See gvcf_tools.py for details.
 
