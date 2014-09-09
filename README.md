@@ -16,7 +16,7 @@ Prerequisite:
 See gvcf_tools.py for details.
 
 Usage:  
-  python gvcf_tools.py sample.g.vcf
+  type `python gvcf_tools.py sample.g.vcf`
 
 For more options:
-  python gvcf_tools.py -help  
+  type `python gvcf_tools.py -help` 
