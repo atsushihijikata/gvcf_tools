@@ -1,8 +1,8 @@
 gvcf_tools
 ==========
 
-Handling with gVCF (genome variant call format) files
-to convert gVCF into the other formats.
+Handling with gVCF (genome variant call format) files:
+Converting to the other format.
 
 Currently two formats are available:
 
