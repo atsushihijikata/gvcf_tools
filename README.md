@@ -6,7 +6,7 @@ to convert gVCF into the other formats.
 
 Currently two formats are available:
 
- 1. multi-FASTA format with variations in the gVCF file.
+ 1. multi-FASTA format containing genetic variations.
  2. conventional VCF format.
 
 Prerequisite:
