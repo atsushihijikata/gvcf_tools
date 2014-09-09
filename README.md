@@ -10,7 +10,7 @@ Currently two formats are available:
  2. conventional VCF format.
 
 Prerequisite:  
- 1. gVCF format file  
+ 1. Python 2.6 or later  
  2. genome data in FASTA format (please download from public database, e.g. NCBI, EBI or UCSC).
     
 See gvcf_tools.py for details.
